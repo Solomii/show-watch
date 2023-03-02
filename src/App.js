@@ -1,10 +1,10 @@
-
 import './App.css';
+import StopWatch from './components/StopWatch';
 
 function App() {
   return (
     <>
-    <h2>StopWatch</h2>
+    <StopWatch/>
     </>
   );
 }

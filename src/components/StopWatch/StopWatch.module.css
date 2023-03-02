@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 70%;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 0;
+
+    background-color: gray;
+    color: wheat;
+
+    text-align: center;
+}
+
+.boxBtn {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    border: none;
+    background-color: wheat;
+    padding: 0.5em 1.5em;
+}
